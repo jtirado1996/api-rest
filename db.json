@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "El producto no es lo que pedí"
+    },
+    {
+        "id": 2,
+        "name": "Me arrepenti de la compra"
+    },
+    {
+        "id": 3,
+        "name": "La calidad de producto no es la deseada"
+    },
+    {
+        "id": 4,
+        "name": "Producto defectuoso, no funciona"
+    }
+]
